@@ -1,0 +1,9 @@
+C:\Training\SimpleExample\DimensionObserver\DimensionObserver\bin\Debug\DimensionObserver.exe.config
+C:\Training\SimpleExample\DimensionObserver\DimensionObserver\bin\Debug\DimensionObserver.exe
+C:\Training\SimpleExample\DimensionObserver\DimensionObserver\bin\Debug\DimensionObserver.pdb
+C:\Training\SimpleExample\DimensionObserver\DimensionObserver\obj\Debug\DimensionObserver.csprojResolveAssemblyReference.cache
+C:\Training\SimpleExample\DimensionObserver\DimensionObserver\obj\Debug\DimensionObserver.Properties.Resources.resources
+C:\Training\SimpleExample\DimensionObserver\DimensionObserver\obj\Debug\DimensionObserver.csproj.GenerateResource.Cache
+C:\Training\SimpleExample\DimensionObserver\DimensionObserver\obj\Debug\DimensionObserver.exe
+C:\Training\SimpleExample\DimensionObserver\DimensionObserver\obj\Debug\DimensionObserver.pdb
+C:\Training\SimpleExample\DimensionObserver\DimensionObserver\obj\Debug\DimensionObserver.MainForm.resources
